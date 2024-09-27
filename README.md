@@ -17,6 +17,7 @@ It is a personal chatbot application that uses the Groq API to engage in convers
 
 ## Snapshot of Json file:
 
+![json ](https://github.com/user-attachments/assets/4f2445d5-ec6d-4e9b-bf74-23e0cb7cda6b)
 
 
 ---
@@ -31,4 +32,6 @@ This allows you to generate personalized cover letters based on your CV extracte
 - **User-Friendly Interface**: Simple file dialog for selecting your CV and straightforward command-line prompts for input.
 
 ## Snapshot of Cover letter:
+
+![Screenshot 2024-09-27 155435](https://github.com/user-attachments/assets/def744dc-5243-435c-a443-506c96733cf8)
 
