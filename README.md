@@ -4,7 +4,7 @@ An attempt to  build projects using  Groq APi key
 You can get your groq key from here : https://console.groq.com
 
 
-'chatbot.py':
+`chatbot.py`:
 It is a personal chatbot application that uses the Groq API to engage in conversation and summarize chat history after 'exit' keyword is triggered . It is designed to be a supportive and affectionate chatbot, capturing the essence of friendly interactions. 
 
 ## Features
