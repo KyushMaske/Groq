@@ -31,7 +31,3 @@ This allows you to generate personalized cover letters based on your CV extracte
 - **Personalized Cover Letters**: Generate a tailored cover letter for a specific job position at a given company.
 - **User-Friendly Interface**: Simple file dialog for selecting your CV and straightforward command-line prompts for input.
 
-## Snapshot of Cover letter:
-
-![Screenshot 2024-09-27 155435](https://github.com/user-attachments/assets/def744dc-5243-435c-a443-506c96733cf8)
-
